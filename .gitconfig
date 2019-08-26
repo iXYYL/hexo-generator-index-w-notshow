@@ -1,0 +1,11 @@
+[user]
+	name = XYYL
+	email = reg.fengyl@gmail.com
+[core]
+	editor = vim
+	quotepath = false
+[color]
+	ui = auto
+	diff = true
+	branch = true
+	status = auto
